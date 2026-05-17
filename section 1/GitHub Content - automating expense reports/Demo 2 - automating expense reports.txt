@@ -4,7 +4,7 @@
 
 
 
-[from in Teams, open a chat window with Copilot]
+[Using Edit Mode with Copilot]
 - [Upload files that you want scanned]
 I want you to categorize these expenses into a table with the headers: Date, Employee Name, Trip Destination, Purpose of Trip, Category, Amount (USD), Establishment (where the purchase was made), and Payment Method.
 [Note: If Copilot doesn’t get all of the information correctly the first time, go through the table it provides you and ask for the information again. If necessary, upload that particular file again for analysis. Copilot will struggle more with bulk requests, and will lose accuracy with more data to process all at once]
